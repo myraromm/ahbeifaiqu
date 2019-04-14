@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shohghugar.senchalabs.org/sitemap.xml
